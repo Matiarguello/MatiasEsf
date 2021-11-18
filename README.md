@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiasesf&label=Profile%20views&color=0e75b6&style=flat" alt="matiasesf" /> </p>
 
 <h1 align="center">Hola! 👋, soy Matias Argüello</h1>
-<h3 align="center">Soy un estudiante de programación, creador y editor de modelos 3D, bailarin, Preceptor e intento de fotógrafo</h3>
+<h3 align="center">Soy estudiante de programación, creador y editor de modelos 3D, bailarin, Preceptor e intento de fotógrafo</h3>
 <h3 align="center">Creador del mod ESF:FCX | Dueño de ESF Z-Warriors</h3>
 
 ---------
@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://instagram.com/matii.arguello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matii.arguello" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCT7I61nE8dAfPX6iWM2DN7g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="matias_esf" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/x7YyZNAcnM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/x7YyZNAcnM" height="30" width="40" /></a>
+<a href="https://discord.gg/x7YyZNAcnM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/x7YyZNAcnM" height="30" width="40" /></a>
 </p>
 
 -------------
