@@ -1,8 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiasesf&label=Profile%20views&color=0e75b6&style=flat" alt="matiasesf" /> </p>
 
-<h1 align="center">Hola! 👋, soy Matias Argüello</h1>
-<h3 align="center">Soy estudiante de programación, creador y editor de modelos 3D, bailarin, Preceptor e intento de fotógrafo</h3>
-<h3 align="center">Creador del mod ESF:FCX | Dueño de ESF Z-Warriors</h3>
+<h1 align="center">Hola! 👋, soy Matias Argüello 😅</h1>
+<h3 align="center">Soy estudiante de programación 💻 </h3>
 
  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matiasarguello09@gmail.com)
             
