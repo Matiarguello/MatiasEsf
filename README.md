@@ -4,6 +4,8 @@
 <h3 align="center">Soy estudiante de programación, creador y editor de modelos 3D, bailarin, Preceptor e intento de fotógrafo</h3>
 <h3 align="center">Creador del mod ESF:FCX | Dueño de ESF Z-Warriors</h3>
 
+ [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:matiasarguello09@gmail.com)
+            
 ---------
 
 
